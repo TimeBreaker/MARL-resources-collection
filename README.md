@@ -11,20 +11,49 @@ My email: chenhao2019@ia.ac.cn
 
 
 ## Courses
-* RLChina 2020
-* 
+* [RLChina 2020](https://rlchina.org/)
+* [Multi-agent AI UCL](https://www.bilibili.com/video/BV1fz4y1S72S)
 * 
 
 ## Reviews
+###Recent Reviews(Since 2019)
+* A Survey and Critique of Multiagent Deep Reinforcement Learning
+* An Overview of Multi-Agent Reinforcement Learning from Game Theoretical Perspective
+* Multi-Agent Reinforcement Learning: A Selective Overview of Theories and Algorithms
+* A Review of Cooperative Multi-Agent Deep Reinforcement Learning
+* Dealing with Non-Stationarity in Multi-Agent Deep Reinforcement Learning
+* A Survey of Learning in Multiagent Environments: Dealing with Non-Stationarity
+* Learning to Communicate in Multi-Agent Reinforcement Learning : A Review
+* Algorithms in Multi-Agent Systems: A Holistic Perspective from Reinforcement Learning and Game Theory
+* Deep Reinforcement Learning for Multi-Agent Systems: A Review of Challenges, Solutions and Applications
+* 
 * 
 * 
 * 
 
+
+###Other Reviews(Before 2019)
+* 
+* 
+* 
+* 
+* 
+* 
+* If multi-agent learning is the answer, what is the question?
+* Multiagent learning is not the answer. It is the question
+* 
+* 
+* 
+* 
+* 
+* 
+* (Worth reading although they're not recent reviews.)
+
 ## Useful Links
-* http://www.neurondance.com/
+* 
 * https://spinningup.openai.com/
 * 
-* 
+* http://www.neurondance.com/
 
 ## Books
 * 
