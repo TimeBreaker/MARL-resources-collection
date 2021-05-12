@@ -42,8 +42,8 @@ My email: chenhao2019@ia.ac.cn
 * [Pommerman](https://www.pommerman.com/)
 * [multi-agent-emergence-environments](https://github.com/openai/multi-agent-emergence-environments)
 * [Google Research Football](https://github.com/google-research/football)
-* [MAgent](https://github.com/PettingZoo-Team/MAgent) Note that the original [project](https://github.com/geek-ai/MAgent) is no longer maintained.
-(I personally recommend the first two environments for beginners.)
+* [MAgent](https://github.com/PettingZoo-Team/MAgent) Note that [the original project](https://github.com/geek-ai/MAgent) is no longer maintained.
+* (I personally recommend the first two environments for beginners.)
 
 ## Research Groups
 * http://whirl.cs.ox.ac.uk/
