@@ -100,6 +100,7 @@ SJTU|[Weinan Zhang](http://wnzhang.net/)|
 
 ## Useful Links
 ### Written in English
+* https://dblp.uni-trier.de/
 * https://spinningup.openai.com/
 * https://github.com/openai/spinningup
 * https://github.com/TimeBreaker/MARL-papers-with-code
