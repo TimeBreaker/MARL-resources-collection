@@ -30,20 +30,20 @@ My email: chenhao2019@ia.ac.cn
 
 ## Reviews
 ### Recent Reviews (Since 2019)
-* A Survey and Critique of Multiagent Deep Reinforcement Learning
-* An Overview of Multi-Agent Reinforcement Learning from Game Theoretical Perspective
-* Multi-Agent Reinforcement Learning: A Selective Overview of Theories and Algorithms
-* A Review of Cooperative Multi-Agent Deep Reinforcement Learning
-* Dealing with Non-Stationarity in Multi-Agent Deep Reinforcement Learning
-* A Survey of Learning in Multiagent Environments: Dealing with Non-Stationarity
-* Deep Reinforcement Learning for Multi-Agent Systems: A Review of Challenges, Solutions and Applications
-* A Survey on Transfer Learning for Multiagent Reinforcement Learning Systems
+* [A Survey and Critique of Multiagent Deep Reinforcement Learning](https://arxiv.org/pdf/1810.05587v3)
+* [An Overview of Multi-Agent Reinforcement Learning from Game Theoretical Perspective](https://arxiv.org/abs/2011.00583v2)
+* [Multi-Agent Reinforcement Learning: A Selective Overview of Theories and Algorithms](https://arxiv.org/abs/1911.10635v1)
+* [A Review of Cooperative Multi-Agent Deep Reinforcement Learning](https://arxiv.org/abs/1908.03963)
+* [Dealing with Non-Stationarity in Multi-Agent Deep Reinforcement Learning](https://arxiv.org/abs/1906.04737)
+* [A Survey of Learning in Multiagent Environments: Dealing with Non-Stationarity](https://arxiv.org/abs/1707.09183v1)
+* [Deep Reinforcement Learning for Multi-Agent Systems: A Review of Challenges, Solutions and Applications](https://arxiv.org/pdf/1812.11794.pdf)
+* [A Survey on Transfer Learning for Multiagent Reinforcement Learning Systems](https://www.researchgate.net/publication/330752409_A_Survey_on_Transfer_Learning_for_Multiagent_Reinforcement_Learning_Systems)
 
 ### Other Reviews (Before 2019)
-* If multi-agent learning is the answer, what is the question?
-* Multiagent learning is not the answer. It is the question
-* Is multiagent deep reinforcement learning the answer or the question? A brief survey    Note that A Survey and Critique of Multiagent Deep Reinforcement Learning is an updated version of this paper with the same authors.
-* Evolutionary Dynamics of Multi-Agent Learning: A Survey 
+* [If multi-agent learning is the answer, what is the question?](ai.stanford.edu/people/shoham/www papers/LearningInMAS.pdf)
+* [Multiagent learning is not the answer. It is the question](https://core.ac.uk/download/pdf/82595758.pdf)
+* [Is multiagent deep reinforcement learning the answer or the question? A brief survey](https://arxiv.org/abs/1810.05587v1)   Note that [A Survey and Critique of Multiagent Deep Reinforcement Learning](https://arxiv.org/pdf/1810.05587v3) is an updated version of this paper with the same authors.
+* [Evolutionary Dynamics of Multi-Agent Learning: A Survey](https://www.researchgate.net/publication/280919379_Evolutionary_Dynamics_of_Multi-Agent_Learning_A_Survey)
 * (Worth reading although they're not recent reviews.)
 
 ## Books
