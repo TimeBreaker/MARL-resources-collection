@@ -40,7 +40,7 @@ My email: chenhao2019@ia.ac.cn
 * [A Survey on Transfer Learning for Multiagent Reinforcement Learning Systems](https://www.researchgate.net/publication/330752409_A_Survey_on_Transfer_Learning_for_Multiagent_Reinforcement_Learning_Systems)
 
 ### Other Reviews (Before 2019)
-* [If multi-agent learning is the answer, what is the question?](ai.stanford.edu/people/shoham/www papers/LearningInMAS.pdf)
+* [If multi-agent learning is the answer, what is the question?](https://ai.stanford.edu/people/shoham/www papers/LearningInMAS.pdf)
 * [Multiagent learning is not the answer. It is the question](https://core.ac.uk/download/pdf/82595758.pdf)
 * [Is multiagent deep reinforcement learning the answer or the question? A brief survey](https://arxiv.org/abs/1810.05587v1)   Note that [A Survey and Critique of Multiagent Deep Reinforcement Learning](https://arxiv.org/pdf/1810.05587v3) is an updated version of this paper with the same authors.
 * [Evolutionary Dynamics of Multi-Agent Learning: A Survey](https://www.researchgate.net/publication/280919379_Evolutionary_Dynamics_of_Multi-Agent_Learning_A_Survey)
