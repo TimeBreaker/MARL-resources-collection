@@ -21,8 +21,9 @@ My email: chenhao2019@ia.ac.cn
 * [RLChina 2020](https://rlchina.org/)
 * [UCL Multi-agent AI](https://www.bilibili.com/video/BV1fz4y1S72S)
 
-## Conferences
-AAAI, IJCAI, AAMAS, NIPS, ICML, ICLR, ~~Arxiv~~
+## Important Conferences
+AAMAS, AAAI, IJCAI, ICLR, ICML, NIPS
+Sorted by difficulty
 
 ## Reviews
 ### Recent Reviews (Since 2019)
