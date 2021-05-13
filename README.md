@@ -8,17 +8,17 @@ This repository is not for commercial purposes.
 My email: chenhao2019@ia.ac.cn
 
 ## Overview
-* Courses
-* Important Conferences
-* Reviews
-* Books
-* Open Source Environments
-* Research Groups
-* Companies
-* Paper List
-* Useful Links
-* Other Related Resources
-* TODO
+* [Courses](https://github.com/TimeBreaker/MARL-resources-collection#courses)
+* [Important Conferences](https://github.com/TimeBreaker/MARL-resources-collection#important-conferences)
+* [Reviews](https://github.com/TimeBreaker/MARL-resources-collection#reviews)
+* [Books](https://github.com/TimeBreaker/MARL-resources-collection#books)
+* [Open Source Environments](https://github.com/TimeBreaker/MARL-resources-collection#open-source-environments)
+* [Research Groups](https://github.com/TimeBreaker/MARL-resources-collection#research-groups)
+* [Companies](https://github.com/TimeBreaker/MARL-resources-collection#companies)
+* [Paper List](https://github.com/TimeBreaker/MARL-resources-collection#paper-list)
+* [Useful Links](https://github.com/TimeBreaker/MARL-resources-collection#useful-links)
+* [Other Related Resources](https://github.com/TimeBreaker/MARL-resources-collection#other-related-resources)
+* [TODO](https://github.com/TimeBreaker/MARL-resources-collection#todo)
 
 ## Courses
 * [RLChina 2020](https://rlchina.org/)
