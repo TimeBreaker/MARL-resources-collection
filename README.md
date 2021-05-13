@@ -95,18 +95,14 @@ SJTU|[Weinan Zhang](http://wnzhang.net/)|
 
 ## Paper List
 * https://github.com/LantaoYu/MARL-Papers
+* https://github.com/TimeBreaker/MARL-papers-with-code
 
 ## Talks
 ### In English
+* https://www.youtube.com/watch?v=W_9kcQmaWjo
 * https://www.youtube.com/watch?v=TMTT2z8lifA
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+* https://www.youtube.com/watch?v=Yd6HNZnqjis
+* https://www.youtube.com/watch?v=ufFue5_gR4c
 
 ### In Chinese
 * https://www.techbeat.net/talk-info?id=501
@@ -115,27 +111,13 @@ SJTU|[Weinan Zhang](http://wnzhang.net/)|
 * https://www.bilibili.com/video/BV1ig4y1v7xU
 * https://www.bilibili.com/video/BV18z411q7Kc
 * https://www.bilibili.com/video/BV1k5411V7ue
-* 
-* 
-* 
-
-
 
 ## Useful Resources
 ### In English
 * https://dblp.uni-trier.de/
 * https://spinningup.openai.com/
 * https://github.com/openai/spinningup
-* https://github.com/TimeBreaker/MARL-papers-with-code
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+* https://github.com/Jinjiarui/hrl-papers
 
 ### In Chinese
 * http://www.neurondance.com/
@@ -149,25 +131,11 @@ SJTU|[Weinan Zhang](http://wnzhang.net/)|
 * Wechat public account: AIORHHC
 * https://www.bilibili.com/video/av925922430/
 * https://www.bilibili.com/video/av626777400/
-* 
-* 
-* 
-* 
+* https://github.com/NeuronDance/DeepRL
 
 ## TODO
-* 
-* 
-* 
-
-
-
-
-## 
-
-
-
-
-
-
+* The Research Groups part needs to be completed
+* The Companies part needs to be completed
+* The Useful Resources part needs to be perfected
 
 
