@@ -17,7 +17,7 @@ My email: chenhao2019@ia.ac.cn
 * [Companies](https://github.com/TimeBreaker/MARL-resources-collection#companies)
 * [Paper List](https://github.com/TimeBreaker/MARL-resources-collection#paper-list)
 * [Talks](https://github.com/TimeBreaker/MARL-resources-collection#talks)
-* [Useful Links](https://github.com/TimeBreaker/MARL-resources-collection#useful-links)
+* [Useful Resources](https://github.com/TimeBreaker/MARL-resources-collection#useful-links)
 * [TODO](https://github.com/TimeBreaker/MARL-resources-collection#todo)
 
 ## Courses
@@ -98,7 +98,7 @@ SJTU|[Weinan Zhang](http://wnzhang.net/)|
 
 ## Talks
 ### In English
-* 
+* https://www.youtube.com/watch?v=TMTT2z8lifA
 * 
 * 
 * 
@@ -110,18 +110,18 @@ SJTU|[Weinan Zhang](http://wnzhang.net/)|
 
 ### In Chinese
 * https://www.techbeat.net/talk-info?id=501
-* 
-* 
-* 
-* 
-* 
+* https://www.bilibili.com/video/av457780236/
+* https://space.bilibili.com/551888585/channel/detail?cid=167587
+* https://www.bilibili.com/video/BV1ig4y1v7xU
+* https://www.bilibili.com/video/BV18z411q7Kc
+* https://www.bilibili.com/video/BV1k5411V7ue
 * 
 * 
 * 
 
 
 
-## Useful Links
+## Useful Resources
 ### In English
 * https://dblp.uni-trier.de/
 * https://spinningup.openai.com/
@@ -143,10 +143,12 @@ SJTU|[Weinan Zhang](http://wnzhang.net/)|
 * https://www.zhihu.com/question/323584412
 * http://turingai.ia.ac.cn/threads/detail/219
 * https://space.bilibili.com/4801051?spm_id_from=333.788.b_765f7570696e666f.2
-* 
-* 
-* 
-* 
+* https://www.zhihu.com/people/tian-yuan-dong
+* https://www.zhihu.com/people/eyounx
+* https://www.zhihu.com/people/wan-shang-zhu-ce-de
+* Wechat public account: AIORHHC
+* https://www.bilibili.com/video/av925922430/
+* https://www.bilibili.com/video/av626777400/
 * 
 * 
 * 
