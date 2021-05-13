@@ -35,7 +35,7 @@ My email: chenhao2019@ia.ac.cn
 ### Other Reviews (Before 2019)
 * If multi-agent learning is the answer, what is the question?
 * Multiagent learning is not the answer. It is the question
-* Is multiagent deep reinforcement learning the answer or the question? A brief survey   Note that *A Survey and Critique of Multiagent Deep Reinforcement Learning* is an updated version of this paper with the same authors.
+* Is multiagent deep reinforcement learning the answer or the question? A brief survey    Note that *A Survey and Critique of Multiagent Deep Reinforcement Learning* is an updated version of this paper with the same authors.
 * Evolutionary Dynamics of Multi-Agent Learning: A Survey 
 * (Worth reading although they're not recent reviews.)
 
@@ -70,14 +70,20 @@ UCL|Jun Wang|
 
 
 ## Paper list
-* 
+* https://github.com/LantaoYu/MARL-Papers
 * 
 * 
 
 ## Useful Links
-* 
+### Written in English
 * https://spinningup.openai.com/
 * https://github.com/openai/spinningup
+* https://github.com/TimeBreaker/MARL-papers-with-code
+* 
+* 
+* 
+
+### Written in Chinese
 * http://www.neurondance.com/
 * https://www.zhihu.com/question/376068768
 * https://www.zhihu.com/question/323584412
@@ -86,11 +92,18 @@ UCL|Jun Wang|
 * 
 * 
 
-## Other related stuff
+## Other related resources
+### Written in English
+* 
 * 
 * 
 * 
 
+### Written in Chinese
+* 
+* 
+* 
+* 
 ## TODO
 * 
 * 
