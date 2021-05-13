@@ -74,7 +74,7 @@ THU|[Yi Wu](http://jxwuyi.weebly.com/)|
 PKU|[Zongqing Lu](https://z0ngqing.github.io/)|
 PKU|[Hangyu Mao](https://scholar.google.com/citations?hl=zh-CN&user=EtVHsgcAAAAJ)|
 NJU|[Yang Yu](http://www.lamda.nju.edu.cn/yuy/)|
-FaceBook|[Yuandong Tian](http://yuandong-tian.com/)|
+Facebook|[Yuandong Tian](http://yuandong-tian.com/)|
 TJU|[Jianye Hao](http://faculty.tju.edu.cn/156102/zh_CN/index/24194/list/index.htm)|
 UIUC|[Kaiqing Zhang](https://kzhang66.github.io/index.html)|
 KCL|[Yaodong Yang](https://www.yangyaodong.com)|
@@ -86,14 +86,12 @@ SJTU|[Weinan Zhang](http://wnzhang.net/)|
 ## Companies
 * [DeepMind](https://deepmind.com/)
 * [OpenAI](https://openai.com/)
-* 
-* 
-* 
-* 
-* 
-* 
+* [Facebook](https://ai.facebook.com/)
+* [Tencent](https://ai.tencent.com/ailab/zh/index)
+* [NetEase](https://fuxi.163.com/#/home)
+* [Huawei](https://www.noahlab.com.hk/#/home)
 
-
+(This collection is stil incomplete.)
 
 ## Paper List
 * https://github.com/LantaoYu/MARL-Papers
