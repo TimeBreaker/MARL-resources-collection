@@ -8,14 +8,17 @@ This repository is not for commercial purposes.
 My email: chenhao2019@ia.ac.cn
 
 ## Overview
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+* Courses
+* Important Conferences
+* Reviews
+* Books
+* Open Source Environments
+* Research Groups
+* Companies
+* Paper List
+* Useful Links
+* Other Related Resources
+* TODO
 
 ## Courses
 * [RLChina 2020](https://rlchina.org/)
@@ -81,8 +84,8 @@ SJTU|[Weinan Zhang](http://wnzhang.net/)|
 (This collection is stil incomplete.)
 
 ## Companies
-* 
-* 
+* [DeepMind](https://deepmind.com/)
+* [OpenAI](https://openai.com/)
 * 
 * 
 * 
