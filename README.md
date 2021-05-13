@@ -75,6 +75,10 @@ FaceBook|[Yuandong Tian](http://yuandong-tian.com/)|
 TJU|[Jianye Hao](http://faculty.tju.edu.cn/156102/zh_CN/index/24194/list/index.htm)|
 UIUC|[Kaiqing Zhang](https://kzhang66.github.io/index.html)|
 KCL|[Yaodong Yang](https://www.yangyaodong.com)|
+NTU|[Bo An](https://personal.ntu.edu.sg/boan/index.html)|
+SJTU|[Weinan Zhang](http://wnzhang.net/)|
+
+(This collection is stil incomplete.)
 
 ## Companies
 * 
