@@ -21,6 +21,9 @@ My email: chenhao2019@ia.ac.cn
 * [RLChina 2020](https://rlchina.org/)
 * [UCL Multi-agent AI](https://www.bilibili.com/video/BV1fz4y1S72S)
 
+## Conferences
+AAAI, IJCAI, AAMAS, NIPS, ICML, ICLR, ~~Arxiv~~
+
 ## Reviews
 ### Recent Reviews (Since 2019)
 * A Survey and Critique of Multiagent Deep Reinforcement Learning
@@ -35,7 +38,7 @@ My email: chenhao2019@ia.ac.cn
 ### Other Reviews (Before 2019)
 * If multi-agent learning is the answer, what is the question?
 * Multiagent learning is not the answer. It is the question
-* Is multiagent deep reinforcement learning the answer or the question? A brief survey    Note that *A Survey and Critique of Multiagent Deep Reinforcement Learning* is an updated version of this paper with the same authors.
+* Is multiagent deep reinforcement learning the answer or the question? A brief survey    Note that A Survey and Critique of Multiagent Deep Reinforcement Learning is an updated version of this paper with the same authors.
 * Evolutionary Dynamics of Multi-Agent Learning: A Survey 
 * (Worth reading although they're not recent reviews.)
 
@@ -71,8 +74,6 @@ UCL|Jun Wang|
 
 ## Paper List
 * https://github.com/LantaoYu/MARL-Papers
-* 
-* 
 
 ## Useful Links
 ### Written in English
