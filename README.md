@@ -16,8 +16,8 @@ My email: chenhao2019@ia.ac.cn
 * [Research Groups](https://github.com/TimeBreaker/MARL-resources-collection#research-groups)
 * [Companies](https://github.com/TimeBreaker/MARL-resources-collection#companies)
 * [Paper List](https://github.com/TimeBreaker/MARL-resources-collection#paper-list)
+* [Talks](https://github.com/TimeBreaker/MARL-resources-collection#talks)
 * [Useful Links](https://github.com/TimeBreaker/MARL-resources-collection#useful-links)
-* [Other Related Resources](https://github.com/TimeBreaker/MARL-resources-collection#other-related-resources)
 * [TODO](https://github.com/TimeBreaker/MARL-resources-collection#todo)
 
 ## Courses
@@ -96,8 +96,33 @@ SJTU|[Weinan Zhang](http://wnzhang.net/)|
 ## Paper List
 * https://github.com/LantaoYu/MARL-Papers
 
+## Talks
+### In English
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+### In Chinese
+* https://www.techbeat.net/talk-info?id=501
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+
 ## Useful Links
-### Written in English
+### In English
 * https://dblp.uni-trier.de/
 * https://spinningup.openai.com/
 * https://github.com/openai/spinningup
@@ -105,28 +130,28 @@ SJTU|[Weinan Zhang](http://wnzhang.net/)|
 * 
 * 
 * 
+* 
+* 
+* 
+* 
+* 
+* 
 
-### Written in Chinese
+### In Chinese
 * http://www.neurondance.com/
 * https://www.zhihu.com/question/376068768
 * https://www.zhihu.com/question/323584412
+* http://turingai.ia.ac.cn/threads/detail/219
+* https://space.bilibili.com/4801051?spm_id_from=333.788.b_765f7570696e666f.2
+* 
+* 
+* 
+* 
 * 
 * 
 * 
 * 
 
-## Other Related Resources
-### Written in English
-* 
-* 
-* 
-* 
-
-### Written in Chinese
-* 
-* 
-* 
-* 
 ## TODO
 * 
 * 
