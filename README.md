@@ -69,7 +69,7 @@ UCL|Jun Wang|
 
 
 
-## Paper list
+## Paper List
 * https://github.com/LantaoYu/MARL-Papers
 * 
 * 
@@ -92,7 +92,7 @@ UCL|Jun Wang|
 * 
 * 
 
-## Other related resources
+## Other Related Resources
 ### Written in English
 * 
 * 
