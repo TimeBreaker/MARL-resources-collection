@@ -1,5 +1,5 @@
 # MARL resources collection
-This is a collection of Multi-Agent Reinforcement Learning (MARL) Resources. The purpose of this repository is to give beginners a better understanding of MARL and accelerate the learning process. Note that some of the resources are written in Chinese and some papers that don't have a lot of citations wasn't listed. 
+This is a collection of Multi-Agent Reinforcement Learning (MARL) Resources. The purpose of this repository is to give beginners a better understanding of MARL and accelerate the learning process. Note that some of the resources are written in Chinese and only important papers that have a lot of citations was listed. 
 
 I will continually update this repository and I welcome suggestions.(missing important papers, missing important resources, invalid links, etc.) It's only a first draft so far, I'll add more resources in the next few months.
 
@@ -33,7 +33,7 @@ My email: chenhao2019@ia.ac.cn
 
 ## Books
 * [Multiagent systems: Algorithmic, game-theoretic, and logical foundations](http://www.masfoundations.org/download.html)
-* 
+* [Multi‐Agent Machine Learning A Reinforcement Approach](https://www.engineerrefe.com/multi-agent-machine-learning/)
 
 ## Open Source Environments
 * StarCraft Micromanagement Environment
@@ -50,7 +50,7 @@ My email: chenhao2019@ia.ac.cn
 * (I personally recommend the first two environments for beginners.)
 
 ## Research Groups
-Organization|Reaearcher|Lab homepage(if any)
+Organization|Reaearcher|Lab homepage (if any)
 --|:--:|--:
 Oxford|Shimon Whiteson, Jakob N. Foerster|http://whirl.cs.ox.ac.uk/  
 
