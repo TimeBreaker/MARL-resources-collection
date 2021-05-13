@@ -64,11 +64,11 @@ My email: chenhao2019@ia.ac.cn
 ## Research Groups
 Organization|Reaearcher|Lab homepage (if any)
 --|:--:|--:
-Oxford|Shimon Whiteson, Jakob N. Foerster|[link](http://whirl.cs.ox.ac.uk/ ) 
-UCL|Jun Wang|
-Tsinghua|Chongjie Zhang|[link](http://group.iiis.tsinghua.edu.cn/~milab/index.html)
-
-
+Oxford|[Shimon Whiteson](https://www.cs.ox.ac.uk/people/shimon.whiteson/), [Jakob N. Foerster](https://www.jakobfoerster.com/)|[link](http://whirl.cs.ox.ac.uk/ ) 
+UCL|[Jun Wang](http://www0.cs.ucl.ac.uk/staff/Jun.Wang/)|
+THU|[Chongjie Zhang](http://people.iiis.tsinghua.edu.cn/~zhang/)|[link](http://group.iiis.tsinghua.edu.cn/~milab/index.html)
+THU|[Yi Wu](http://jxwuyi.weebly.com/)|
+PKU|[Zongqing Lu](https://z0ngqing.github.io/)|
 
 
 
