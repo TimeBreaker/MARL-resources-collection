@@ -1,7 +1,7 @@
 # MARL resources collection
-This is a collection of Multi-Agent Reinforcement Learning (MARL) Resources. The purpose of this repository is to give beginners a better understanding of MARL and accelerate the learning process. Note that some of the resources are written in Chinese and only important papers that have a lot of citations was listed. 
+This is a collection of Multi-Agent Reinforcement Learning (MARL) Resources. The purpose of this repository is to give beginners a better understanding of MARL and accelerate the learning process. Note that some of the resources are written in Chinese and only important papers that have a lot of citations were listed. 
 
-I will continually update this repository and I welcome suggestions.(missing important papers, missing important resources, invalid links, etc.) It's only a first draft so far, I'll add more resources in the next few months.
+I will continually update this repository and I welcome suggestions. (missing important papers, missing important resources, invalid links, etc.) It's only a first draft so far and I'll add more resources in the next few months.
 
 This repository is not for commercial purposes.
 
@@ -35,6 +35,7 @@ My email: chenhao2019@ia.ac.cn
 ### Other Reviews (Before 2019)
 * If multi-agent learning is the answer, what is the question?
 * Multiagent learning is not the answer. It is the question
+* Is multiagent deep reinforcement learning the answer or the question? A brief survey   Note that *A Survey and Critique of Multiagent Deep Reinforcement Learning* is an updated version of this paper with the same authors.
 * Evolutionary Dynamics of Multi-Agent Learning: A Survey 
 * (Worth reading although they're not recent reviews.)
 
@@ -60,7 +61,7 @@ My email: chenhao2019@ia.ac.cn
 Organization|Reaearcher|Lab homepage (if any)
 --|:--:|--:
 Oxford|Shimon Whiteson, Jakob N. Foerster|http://whirl.cs.ox.ac.uk/  
-UCL\Jjun Wang|
+UCL|Jun Wang|
 
 
 
