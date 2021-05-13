@@ -1,5 +1,5 @@
 # MARL resources collection
-This is a collection of Multi-Agent Reinforcement Learning (MARL) Resources. The purpose of this repository is to give beginners a better understanding of MARL and accelerate the learning process. Some of the resources are written in Chinese.
+This is a collection of Multi-Agent Reinforcement Learning (MARL) Resources. The purpose of this repository is to give beginners a better understanding of MARL and accelerate the learning process. Note that some of the resources are written in Chinese and some papers that don't have a lot of citations wasn't listed. 
 
 I will continually update this repository and I welcome suggestions.(missing important papers, missing important resources, invalid links, etc.) It's only a first draft so far, I'll add more resources in the next few months.
 
@@ -16,29 +16,16 @@ My email: chenhao2019@ia.ac.cn
 * 
 
 ## Reviews
-###Recent Reviews(Since 2019)
+### Recent Reviews(Since 2019)
 * A Survey and Critique of Multiagent Deep Reinforcement Learning
 * An Overview of Multi-Agent Reinforcement Learning from Game Theoretical Perspective
 * Multi-Agent Reinforcement Learning: A Selective Overview of Theories and Algorithms
 * A Review of Cooperative Multi-Agent Deep Reinforcement Learning
 * Dealing with Non-Stationarity in Multi-Agent Deep Reinforcement Learning
 * A Survey of Learning in Multiagent Environments: Dealing with Non-Stationarity
-* Learning to Communicate in Multi-Agent Reinforcement Learning : A Review
-* Algorithms in Multi-Agent Systems: A Holistic Perspective from Reinforcement Learning and Game Theory
 * Deep Reinforcement Learning for Multi-Agent Systems: A Review of Challenges, Solutions and Applications
-* 
-* 
-* 
-* 
 
-
-###Other Reviews(Before 2019)
-* 
-* 
-* 
-* 
-* 
-* 
+### Other Reviews(Before 2019)
 * If multi-agent learning is the answer, what is the question?
 * Multiagent learning is not the answer. It is the question
 * 
@@ -48,12 +35,6 @@ My email: chenhao2019@ia.ac.cn
 * 
 * 
 * (Worth reading although they're not recent reviews.)
-
-## Useful Links
-* 
-* https://spinningup.openai.com/
-* 
-* http://www.neurondance.com/
 
 ## Books
 * 
@@ -82,6 +63,18 @@ My email: chenhao2019@ia.ac.cn
 
 
 ## Paper list
+* 
+* 
+* 
+
+## Useful Links
+* 
+* https://spinningup.openai.com/
+* https://github.com/openai/spinningup
+* http://www.neurondance.com/
+* https://www.zhihu.com/question/376068768
+* https://www.zhihu.com/question/323584412
+* 
 * 
 * 
 * 
