@@ -132,7 +132,7 @@ SJTU|[Weinan Zhang](http://wnzhang.net/)|
 * https://www.zhihu.com/people/tian-yuan-dong
 * https://www.zhihu.com/people/eyounx
 * https://www.zhihu.com/people/wan-shang-zhu-ce-de
-* Wechat public account: AIORHHC
+* Wechat public account: AIORHHC; RLCN
 * https://www.bilibili.com/video/av925922430/
 * https://www.bilibili.com/video/av626777400/
 * https://github.com/NeuronDance/DeepRL
