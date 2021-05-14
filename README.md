@@ -94,8 +94,8 @@ SJTU|[Weinan Zhang](http://wnzhang.net/)|
 (This collection is stil incomplete.)
 
 ## Paper List
-* https://github.com/LantaoYu/MARL-Papers
 * https://github.com/TimeBreaker/MARL-papers-with-code
+* https://github.com/LantaoYu/MARL-Papers
 
 ## Talks
 ### In English
