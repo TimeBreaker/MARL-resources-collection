@@ -115,6 +115,9 @@ SJTU|[Weinan Zhang](http://wnzhang.net/)|
 ## Useful Resources
 ### In English
 * https://dblp.uni-trier.de/
+* https://paperswithcode.com/
+* https://www.connectedpapers.com
+* https://deeplearn.org
 * https://spinningup.openai.com/
 * https://github.com/openai/spinningup
 * https://github.com/Jinjiarui/hrl-papers
