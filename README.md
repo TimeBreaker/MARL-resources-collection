@@ -94,6 +94,7 @@ SJTU|[Weinan Zhang](http://wnzhang.net/)|
 (This collection is stil incomplete.)
 
 ## Paper List
+* https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers
 * https://github.com/TimeBreaker/MARL-papers-with-code
 * https://github.com/LantaoYu/MARL-Papers
 
