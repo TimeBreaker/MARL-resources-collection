@@ -1,7 +1,7 @@
 # MARL Resources Collection
 This is a collection of Multi-Agent Reinforcement Learning (MARL) Resources. The purpose of this repository is to give beginners a better understanding of MARL and accelerate the learning process. Note that some of the resources are written in Chinese and only important papers that have a lot of citations were listed. 
 
-I will continually update this repository and I welcome suggestions. (missing important papers, missing important resources, invalid links, etc.) It's only a first draft so far and I'll add more resources in the next few months.
+I will continually update this repository and I welcome suggestions. (missing important papers, missing important resources, invalid links, etc.) This is only a first draft so far and I'll add more resources in the next few months.
 
 This repository is not for commercial purposes.
 
