@@ -127,7 +127,7 @@ SJTU|[Weinan Zhang](http://wnzhang.net/)|
 * http://www.neurondance.com/
 * https://www.zhihu.com/question/376068768
 * https://www.zhihu.com/question/323584412
-* http://turingai.ia.ac.cn/threads/detail/219
+* https://zhuanlan.zhihu.com/p/372558232
 * https://space.bilibili.com/4801051?spm_id_from=333.788.b_765f7570696e666f.2
 * https://www.zhihu.com/people/tian-yuan-dong
 * https://www.zhihu.com/people/eyounx
