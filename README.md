@@ -92,6 +92,7 @@ SJTU|[Weinan Zhang](http://wnzhang.net/)|
 * [Huawei](https://www.noahlab.com.hk/#/home)
 * [Parametrix.ai](https://chaocanshu.cn/)
 * [Inspir.ai](http://www.inspirai.com/)
+
 (This collection is stil incomplete.)
 
 ## Paper List
