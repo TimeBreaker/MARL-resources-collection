@@ -90,7 +90,8 @@ SJTU|[Weinan Zhang](http://wnzhang.net/)|
 * [Tencent](https://ai.tencent.com/ailab/zh/index)
 * [NetEase](https://fuxi.163.com/#/home)
 * [Huawei](https://www.noahlab.com.hk/#/home)
-
+* [Parametrix.ai](https://chaocanshu.cn/)
+* [Inspir.ai](http://www.inspirai.com/)
 (This collection is stil incomplete.)
 
 ## Paper List
