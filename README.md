@@ -23,6 +23,7 @@ My email: chenhao2019@ia.ac.cn
 ## Courses
 * [RLChina 2020](https://rlchina.org/)
 * [UCL Multi-agent AI](https://www.bilibili.com/video/BV1fz4y1S72S)
+* [SJTU Multi-Agent Reinforcement Learning Tutorial](http://wnzhang.net/tutorials/marl2018/index.html)
 
 ## Important Conferences
 * AAMAS, AAAI, IJCAI, ICLR, ICML, NIPS
