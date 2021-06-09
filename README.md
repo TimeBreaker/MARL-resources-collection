@@ -57,6 +57,7 @@ My email: chenhao2019@ia.ac.cn
    * [link](https://github.com/starry-sky6688/StarCraft) This is a simplified implementation of [pymarl](https://github.com/oxwhirl/pymarl)
 * [Multi-Agent Particle Environment](https://github.com/openai/multiagent-particle-envs)
 * [Neural MMO: A Massively Multiagent Game Environment for Training and Evaluating Intelligent Agents](https://github.com/openai/neural-mmo)
+* [OpenSpiel: A Framework for Reinforcement Learning in Games](https://github.com/deepmind/open_spiel)
 * [Hanabi-learning-environment](https://github.com/deepmind/hanabi-learning-environment)
 * [RoboCup 2D Half Field Offense](https://github.com/LARG/HFO)
 * [Pommerman](https://www.pommerman.com/)
