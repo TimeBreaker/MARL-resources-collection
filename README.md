@@ -81,7 +81,7 @@ TJU|[Jianye Hao](http://faculty.tju.edu.cn/156102/zh_CN/index/24194/list/index.h
 UIUC|[Kaiqing Zhang](https://kzhang66.github.io/index.html)|
 KCL|[Yaodong Yang](https://www.yangyaodong.com)|
 NTU|[Bo An](https://personal.ntu.edu.sg/boan/index.html)|
-SJTU|[Weinan Zhang](http://wnzhang.net/)|
+SJTU|[Weinan Zhang](http://wnzhang.net/)|[link](http://apex.sjtu.edu.cn/)
 
 (This collection is stil incomplete.)
 
