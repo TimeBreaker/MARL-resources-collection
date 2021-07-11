@@ -82,6 +82,7 @@ UIUC|[Kaiqing Zhang](https://kzhang66.github.io/index.html)|
 KCL|[Yaodong Yang](https://www.yangyaodong.com)|
 NTU|[Bo An](https://personal.ntu.edu.sg/boan/index.html)|
 SJTU|[Weinan Zhang](http://wnzhang.net/)|[link](http://apex.sjtu.edu.cn/)
+UCAS|[Haifeng Zhang](https://pkuzhf.github.io/)|[link](http://marl.ia.ac.cn/index.html)
 
 (This collection is stil incomplete.)
 
