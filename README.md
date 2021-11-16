@@ -64,6 +64,7 @@ My email: chenhao2019@ia.ac.cn
 * [Multi-agent-emergence-environments](https://github.com/openai/multi-agent-emergence-environments)
 * [Google Research Football](https://github.com/google-research/football)
 * [MAgent](https://github.com/PettingZoo-Team/MAgent) Note that [the original project](https://github.com/geek-ai/MAgent) is no longer maintained.
+* [DI-engine](https://github.com/opendilab/DI-engine)
 * (I personally recommend the first two environments for beginners.)
 
 ## Research Groups
@@ -141,6 +142,7 @@ UCAS|[Haifeng Zhang](https://pkuzhf.github.io/)|[link](http://marl.ia.ac.cn/inde
 * https://www.bilibili.com/video/av925922430/
 * https://www.bilibili.com/video/av626777400/
 * https://github.com/NeuronDance/DeepRL
+* [RLChina 2021](http://rlchina.org/topic/9)
 
 ## TODO
 * The Research Groups part needs to be completed
