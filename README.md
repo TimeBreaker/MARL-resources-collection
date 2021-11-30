@@ -78,7 +78,7 @@ PKU|[Zongqing Lu](https://z0ngqing.github.io/)|
 PKU|[Hangyu Mao](https://scholar.google.com/citations?hl=zh-CN&user=EtVHsgcAAAAJ)|
 NJU|[Yang Yu](http://www.lamda.nju.edu.cn/yuy/)|
 Facebook|[Yuandong Tian](http://yuandong-tian.com/)|
-TJU|[Jianye Hao](http://faculty.tju.edu.cn/156102/zh_CN/index/24194/list/index.htm)|
+TJU|[Jianye Hao](http://faculty.tju.edu.cn/156102/zh_CN/index/24194/list/index.htm)|[link](http://www.icdai.org/)
 UIUC|[Kaiqing Zhang](https://kzhang66.github.io/index.html)|
 KCL|[Yaodong Yang](https://www.yangyaodong.com)|
 NTU|[Bo An](https://personal.ntu.edu.sg/boan/index.html)|
