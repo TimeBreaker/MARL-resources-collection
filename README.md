@@ -75,7 +75,7 @@ UCL|[Jun Wang](http://www0.cs.ucl.ac.uk/staff/Jun.Wang/)|
 THU|[Chongjie Zhang](http://people.iiis.tsinghua.edu.cn/~zhang/)|[link](http://group.iiis.tsinghua.edu.cn/~milab/index.html)
 THU|[Yi Wu](http://jxwuyi.weebly.com/)|
 PKU|[Zongqing Lu](https://z0ngqing.github.io/)|
-PKU|[Hangyu Mao](https://scholar.google.com/citations?hl=zh-CN&user=EtVHsgcAAAAJ)|
+PKU|[Hangyu Mao](https://maohangyu.github.io/)|
 NJU|[Yang Yu](http://www.lamda.nju.edu.cn/yuy/)|
 Facebook|[Yuandong Tian](http://yuandong-tian.com/)|
 TJU|[Jianye Hao](http://faculty.tju.edu.cn/156102/zh_CN/index/24194/list/index.htm)|[link](http://www.icdai.org/)
