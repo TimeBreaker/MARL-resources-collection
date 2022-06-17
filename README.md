@@ -75,12 +75,12 @@ UCL|[Jun Wang](http://www0.cs.ucl.ac.uk/staff/Jun.Wang/)|
 THU|[Chongjie Zhang](http://people.iiis.tsinghua.edu.cn/~zhang/)|[link](http://group.iiis.tsinghua.edu.cn/~milab/index.html)
 THU|[Yi Wu](http://jxwuyi.weebly.com/)|
 PKU|[Zongqing Lu](https://z0ngqing.github.io/)|
-PKU|[Hangyu Mao](https://maohangyu.github.io/)|
+HUAWEI|[Hangyu Mao](https://maohangyu.github.io/)|
 NJU|[Yang Yu](http://www.lamda.nju.edu.cn/yuy/)|
 Facebook|[Yuandong Tian](http://yuandong-tian.com/)|
 TJU|[Jianye Hao](http://faculty.tju.edu.cn/156102/zh_CN/index/24194/list/index.htm)|[link](http://www.icdai.org/)
 UIUC|[Kaiqing Zhang](https://kzhang66.github.io/index.html)|
-KCL|[Yaodong Yang](https://www.yangyaodong.com)|
+PKU|[Yaodong Yang](https://www.yangyaodong.com)|
 NTU|[Bo An](https://personal.ntu.edu.sg/boan/index.html)|
 SJTU|[Weinan Zhang](http://wnzhang.net/)|[link](http://apex.sjtu.edu.cn/)
 UCAS|[Haifeng Zhang](https://pkuzhf.github.io/)|[link](http://marl.ia.ac.cn/index.html)
