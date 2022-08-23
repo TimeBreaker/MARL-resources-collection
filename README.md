@@ -149,4 +149,14 @@ UCAS|[Haifeng Zhang](https://pkuzhf.github.io/)|[link](http://marl.ia.ac.cn/inde
 * The Companies part needs to be completed
 * The Useful Resources part needs to be perfected
 
+## Citation
 
+If you find this repository useful, please cite our repo:
+```
+@misc{chen2021collection,
+  title={A Collection of Multi-Agent Reinforcement Learning Resources},
+  author={Chen, Hao},
+  journal={https://github.com/TimeBreaker/MARL-resources-collection},
+  year={2021}
+}
+```
