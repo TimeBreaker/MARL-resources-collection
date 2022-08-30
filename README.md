@@ -93,6 +93,8 @@ Nanyang Technological University (NTU)|[Bo An](https://personal.ntu.edu.sg/boan/
 Shanghai Jiao Tong University (SJTU)|[Weinan Zhang](http://wnzhang.net/)|[link](http://apex.sjtu.edu.cn/)
 University of Chinese Academy of Sciences (UCAS)|[Haifeng Zhang](https://pkuzhf.github.io/)|[link](http://marl.ia.ac.cn/index.html)
 University of Edinburgh|Stefano V. Albrecht|[link](https://agents.inf.ed.ac.uk/) [GitHub](https://github.com/uoe-agents)
+University College London (UCL)||[Link](https://dark.cs.ucl.ac.uk/)
+
 
 ## Companies
 * [DeepMind](https://deepmind.com/)
