@@ -94,6 +94,7 @@ Shanghai Jiao Tong University (SJTU)|[Weinan Zhang](http://wnzhang.net/)|[link](
 University of Chinese Academy of Sciences (UCAS)|[Haifeng Zhang](https://pkuzhf.github.io/)|[link](http://marl.ia.ac.cn/index.html)
 University of Edinburgh|[Stefano V. Albrecht](https://www.turing.ac.uk/people/researchers/stefano-albrecht)|[link](https://agents.inf.ed.ac.uk/) [GitHub](https://github.com/uoe-agents)
 University College London (UCL)|UCL Deciding, Acting, and Reasoning with Knowledge (DARK) Lab |[Link](https://dark.cs.ucl.ac.uk/)
+University of Maryland|[Furong Huang](http://furong-huang.com/)|[Link](http://furong-huang.com/)
 
 
 ## Companies
