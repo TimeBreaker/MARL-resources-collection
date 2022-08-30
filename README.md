@@ -79,19 +79,19 @@ My email: chenhao2019@ia.ac.cn
 Organization|Reaearcher|Lab homepage (if any)
 --|:--:|--:
 Oxford|[Shimon Whiteson](https://www.cs.ox.ac.uk/people/shimon.whiteson/), [Jakob N. Foerster](https://www.jakobfoerster.com/)|[link](http://whirl.cs.ox.ac.uk/ ) 
-UCL|[Jun Wang](http://www0.cs.ucl.ac.uk/staff/Jun.Wang/)|
-THU|[Chongjie Zhang](http://people.iiis.tsinghua.edu.cn/~zhang/)|[link](http://group.iiis.tsinghua.edu.cn/~milab/index.html)
-THU|[Yi Wu](http://jxwuyi.weebly.com/)|
-PKU|[Zongqing Lu](https://z0ngqing.github.io/)|
+University College London (UCL)|[Jun Wang](http://www0.cs.ucl.ac.uk/staff/Jun.Wang/)|
+Tsinghua University (THU)|[Chongjie Zhang](http://people.iiis.tsinghua.edu.cn/~zhang/)|[link](http://group.iiis.tsinghua.edu.cn/~milab/index.html)
+Tsinghua University (THU)|[Yi Wu](http://jxwuyi.weebly.com/)|
+Peking University (PKU)|[Zongqing Lu](https://z0ngqing.github.io/)|
 HUAWEI|[Hangyu Mao](https://maohangyu.github.io/)|
-NJU|[Yang Yu](http://www.lamda.nju.edu.cn/yuy/)|
+Nanjing University (NJU)|[Yang Yu](http://www.lamda.nju.edu.cn/yuy/)|
 Facebook|[Yuandong Tian](http://yuandong-tian.com/)|
-TJU|[Jianye Hao](http://faculty.tju.edu.cn/156102/zh_CN/index/24194/list/index.htm)|[link](http://www.icdai.org/)
-UIUC|[Kaiqing Zhang](https://kzhang66.github.io/index.html)|
-PKU|[Yaodong Yang](https://www.yangyaodong.com)|
-NTU|[Bo An](https://personal.ntu.edu.sg/boan/index.html)|
-SJTU|[Weinan Zhang](http://wnzhang.net/)|[link](http://apex.sjtu.edu.cn/)
-UCAS|[Haifeng Zhang](https://pkuzhf.github.io/)|[link](http://marl.ia.ac.cn/index.html)
+Tianjin University (TJU)|[Jianye Hao](http://faculty.tju.edu.cn/156102/zh_CN/index/24194/list/index.htm)|[link](http://www.icdai.org/)
+University of Illinois at Urbana-Champaign (UIUC)|[Kaiqing Zhang](https://kzhang66.github.io/index.html)|
+Peking University (PKU)|[Yaodong Yang](https://www.yangyaodong.com)|
+Nanyang Technological University (NTU)|[Bo An](https://personal.ntu.edu.sg/boan/index.html)|
+Shanghai Jiao Tong University (SJTU)|[Weinan Zhang](http://wnzhang.net/)|[link](http://apex.sjtu.edu.cn/)
+University of Chinese Academy of Sciences (UCAS)|[Haifeng Zhang](https://pkuzhf.github.io/)|[link](http://marl.ia.ac.cn/index.html)
 
 
 ## Companies
