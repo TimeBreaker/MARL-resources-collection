@@ -111,7 +111,7 @@ University of Maryland|[Furong Huang](http://furong-huang.com/)|[Link](http://fu
 * [Inspir.ai](http://www.inspirai.com/)
 
 
-## Paper List
+## Paper Lists
 * https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers
 * https://github.com/TimeBreaker/MARL-papers-with-code
 * https://github.com/LantaoYu/MARL-Papers
