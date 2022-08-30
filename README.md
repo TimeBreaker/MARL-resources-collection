@@ -60,8 +60,10 @@ My email: chenhao915@mails.ucas.ac.cn
 
 ## Open Source Environments
 * StarCraft Micromanagement Environment
-   * [pymarl](https://github.com/oxwhirl/pymarl) This is the original environment mentioned in the paper [The StarCraft Multi-Agent Challenge](https://arxiv.org/abs/1902.04043). Note that pymarl is based on [SMAC](https://github.com/oxwhirl/smac).
-   * [link](https://github.com/starry-sky6688/StarCraft) This is a simplified implementation of [pymarl](https://github.com/oxwhirl/pymarl)
+   * [pymarl](https://github.com/oxwhirl/pymarl) is the original environment mentioned in the paper [The StarCraft Multi-Agent Challenge](https://arxiv.org/abs/1902.04043). Note that pymarl is based on [SMAC](https://github.com/oxwhirl/smac).
+   * [MARL-Algorithms](https://github.com/starry-sky6688/MARL-Algorithms) is a simplified implementation of [pymarl](https://github.com/oxwhirl/pymarl)
+   * [EPyMARL](https://github.com/uoe-agents/epymarl) is a extended python MARL framework with more environments (Level Based Foraging, Multi-Robot Warehouse, Multi-Agent Particle Environment) and more algorithms. [Paper](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2006.07869)
+   * [pymarl2](https://github.com/hijkzzz/pymarl2) added code-level tricks to the original pymarl. [Paper](https://arxiv.org/abs/2102.03479)
 * [Multi-Agent Particle Environment](https://github.com/openai/multiagent-particle-envs)
 * [Neural MMO: A Massively Multiagent Game Environment for Training and Evaluating Intelligent Agents](https://github.com/openai/neural-mmo)
 * [OpenSpiel: A Framework for Reinforcement Learning in Games](https://github.com/deepmind/open_spiel)
@@ -72,7 +74,8 @@ My email: chenhao915@mails.ucas.ac.cn
 * [Google Research Football](https://github.com/google-research/football)
 * [MAgent](https://github.com/PettingZoo-Team/MAgent) Note that [the original project](https://github.com/geek-ai/MAgent) is no longer maintained.
 * [DI-engine](https://github.com/opendilab/DI-engine)
-* (I personally recommend the first two environments for beginners.)
+* [MARLlib](https://github.com/Replicable-MARL/MARLlib) is a MARL Extension for RLlib
+* (I personally recommend the first two environments for beginners, especially EPyMARL.)
 
 
 ## Research Groups
