@@ -7,6 +7,7 @@ This repository is not for commercial purposes.
 
 My email: chenhao2019@ia.ac.cn
 
+
 ## Overview
 * [Courses](https://github.com/TimeBreaker/MARL-resources-collection#courses)
 * [Important Conferences](https://github.com/TimeBreaker/MARL-resources-collection#important-conferences)
@@ -20,14 +21,18 @@ My email: chenhao2019@ia.ac.cn
 * [Useful Resources](https://github.com/TimeBreaker/MARL-resources-collection#useful-links)
 * [TODO](https://github.com/TimeBreaker/MARL-resources-collection#todo)
 
+
 ## Courses
 * [RLChina](https://rlchina.org/)
 * [UCL Multi-agent AI](https://www.bilibili.com/video/BV1fz4y1S72S)
 * [SJTU Multi-Agent Reinforcement Learning Tutorial](http://wnzhang.net/tutorials/marl2018/index.html)
+* [SJTU Reinforcement Learning](https://hrl.boyuai.com/slides/)
+
 
 ## Important Conferences
 * AAMAS, AAAI, IJCAI, ICLR, ICML, NIPS
 * Sorted by difficulty (roughly)
+
 
 ## Reviews
 ### Recent Reviews (Since 2019)
@@ -47,9 +52,11 @@ My email: chenhao2019@ia.ac.cn
 * [Evolutionary Dynamics of Multi-Agent Learning: A Survey](https://www.researchgate.net/publication/280919379_Evolutionary_Dynamics_of_Multi-Agent_Learning_A_Survey)
 * (Worth reading although they're not recent reviews.)
 
+
 ## Books
 * [Multiagent systems: Algorithmic, game-theoretic, and logical foundations](http://www.masfoundations.org/download.html)
 * [Multi‐Agent Machine Learning A Reinforcement Approach](https://www.engineerrefe.com/multi-agent-machine-learning/)
+
 
 ## Open Source Environments
 * StarCraft Micromanagement Environment
@@ -66,6 +73,7 @@ My email: chenhao2019@ia.ac.cn
 * [MAgent](https://github.com/PettingZoo-Team/MAgent) Note that [the original project](https://github.com/geek-ai/MAgent) is no longer maintained.
 * [DI-engine](https://github.com/opendilab/DI-engine)
 * (I personally recommend the first two environments for beginners.)
+
 
 ## Research Groups
 Organization|Reaearcher|Lab homepage (if any)
@@ -85,7 +93,6 @@ NTU|[Bo An](https://personal.ntu.edu.sg/boan/index.html)|
 SJTU|[Weinan Zhang](http://wnzhang.net/)|[link](http://apex.sjtu.edu.cn/)
 UCAS|[Haifeng Zhang](https://pkuzhf.github.io/)|[link](http://marl.ia.ac.cn/index.html)
 
-(This collection is stil incomplete.)
 
 ## Companies
 * [DeepMind](https://deepmind.com/)
@@ -97,12 +104,12 @@ UCAS|[Haifeng Zhang](https://pkuzhf.github.io/)|[link](http://marl.ia.ac.cn/inde
 * [Parametrix.ai](https://chaocanshu.cn/)
 * [Inspir.ai](http://www.inspirai.com/)
 
-(This collection is stil incomplete.)
 
 ## Paper List
 * https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers
 * https://github.com/TimeBreaker/MARL-papers-with-code
 * https://github.com/LantaoYu/MARL-Papers
+
 
 ## Talks
 ### In English
@@ -118,6 +125,7 @@ UCAS|[Haifeng Zhang](https://pkuzhf.github.io/)|[link](http://marl.ia.ac.cn/inde
 * https://www.bilibili.com/video/BV1ig4y1v7xU
 * https://www.bilibili.com/video/BV18z411q7Kc
 * https://www.bilibili.com/video/BV1k5411V7ue
+
 
 ## Useful Resources
 ### In English
@@ -142,12 +150,13 @@ UCAS|[Haifeng Zhang](https://pkuzhf.github.io/)|[link](http://marl.ia.ac.cn/inde
 * https://www.bilibili.com/video/av925922430/
 * https://www.bilibili.com/video/av626777400/
 * https://github.com/NeuronDance/DeepRL
-* [RLChina 2021](http://rlchina.org/topic/9)
+
 
 ## TODO
 * The Research Groups part needs to be completed
 * The Companies part needs to be completed
 * The Useful Resources part needs to be perfected
+
 
 ## Citation
 
