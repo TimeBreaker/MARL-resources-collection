@@ -170,9 +170,11 @@ University of Maryland|[Furong Huang](http://furong-huang.com/)|[Link](http://fu
 If you find this repository useful, please cite our repo:
 ```
 @misc{chen2021collection,
-  title={A Collection of Multi-Agent Reinforcement Learning Resources},
   author={Chen, Hao},
-  journal={https://github.com/TimeBreaker/MARL-resources-collection},
+  title={A Collection of Multi-Agent Reinforcement Learning Resources},
   year={2021}
+  publisher = {GitHub},
+  journal = {GitHub Repository},
+  howpublished = {\url{https://github.com/TimeBreaker/MARL-resources-collection}}
 }
 ```
