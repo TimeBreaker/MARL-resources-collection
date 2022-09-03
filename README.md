@@ -75,6 +75,7 @@ My email: chenhao915@mails.ucas.ac.cn
 * [MAgent](https://github.com/PettingZoo-Team/MAgent) Note that [the original project](https://github.com/geek-ai/MAgent) is no longer maintained.
 * [DI-engine](https://github.com/opendilab/DI-engine)
 * [MARLlib](https://github.com/Replicable-MARL/MARLlib) is a MARL Extension for RLlib
+* [Multiagent Mujoco](https://github.com/schroederdewitt/multiagent_mujoco)
 * (I personally recommend the first two environments for beginners, especially EPyMARL.)
 
 
