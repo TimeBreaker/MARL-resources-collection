@@ -92,7 +92,7 @@ Nanjing University (NJU)|[Yang Yu](http://www.lamda.nju.edu.cn/yuy/)|
 Facebook|[Yuandong Tian](http://yuandong-tian.com/)|
 Tianjin University (TJU)|[Jianye Hao](http://faculty.tju.edu.cn/156102/zh_CN/index/24194/list/index.htm)|[link](http://www.icdai.org/)
 University of Illinois at Urbana-Champaign (UIUC)|[Kaiqing Zhang](https://kzhang66.github.io/index.html)|
-Peking University (PKU)|[Yaodong Yang](https://www.yangyaodong.com)|
+Peking University (PKU)|[Yaodong Yang](https://www.yangyaodong.com)|[Link](https://github.com/PKU-MARL)
 Nanyang Technological University (NTU)|[Bo An](https://personal.ntu.edu.sg/boan/index.html)|
 Shanghai Jiao Tong University (SJTU)|[Weinan Zhang](http://wnzhang.net/)|[link](http://apex.sjtu.edu.cn/)
 University of Chinese Academy of Sciences (UCAS)|[Haifeng Zhang](https://pkuzhf.github.io/)|[link](http://marl.ia.ac.cn/index.html)
