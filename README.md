@@ -64,7 +64,7 @@ My email: chenhao915@mails.ucas.ac.cn
    * [MARL-Algorithms](https://github.com/starry-sky6688/MARL-Algorithms) is a simplified implementation of [pymarl](https://github.com/oxwhirl/pymarl)
    * [EPyMARL](https://github.com/uoe-agents/epymarl) is a extended python MARL framework with more environments (Level Based Foraging, Multi-Robot Warehouse, Multi-Agent Particle Environment) and more algorithms. [Paper](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2006.07869)
    * [pymarl2](https://github.com/hijkzzz/pymarl2) added code-level tricks to the original pymarl. [Paper](https://arxiv.org/abs/2102.03479)
-* [Multi-Agent Particle Environment](https://github.com/openai/multiagent-particle-envs)
+* [Multi-Agent Particle Environment](https://github.com/openai/multiagent-particle-envs)  [PyTorch Implementation](https://github.com/shariqiqbal2810/maddpg-pytorch)
 * [Neural MMO: A Massively Multiagent Game Environment for Training and Evaluating Intelligent Agents](https://github.com/openai/neural-mmo)
 * [OpenSpiel: A Framework for Reinforcement Learning in Games](https://github.com/deepmind/open_spiel)
 * [Hanabi-learning-environment](https://github.com/deepmind/hanabi-learning-environment)
@@ -76,6 +76,7 @@ My email: chenhao915@mails.ucas.ac.cn
 * [DI-engine](https://github.com/opendilab/DI-engine)
 * [MARLlib](https://github.com/Replicable-MARL/MARLlib) is a MARL Extension for RLlib
 * [Multiagent Mujoco](https://github.com/schroederdewitt/multiagent_mujoco)
+* [PettingZoo](https://github.com/Farama-Foundation/PettingZoo)  [website](https://www.pettingzoo.ml/)
 * (I personally recommend the first two environments for beginners, especially EPyMARL.)
 
 
