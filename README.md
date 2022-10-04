@@ -77,6 +77,7 @@ My email: chenhao915@mails.ucas.ac.cn
 * [MARLlib](https://github.com/Replicable-MARL/MARLlib) is a MARL Extension for RLlib
 * [Multiagent Mujoco](https://github.com/schroederdewitt/multiagent_mujoco)
 * [PettingZoo](https://github.com/Farama-Foundation/PettingZoo)  [website](https://www.pettingzoo.ml/)
+* [Safe Policy Optimization (SafePO)](https://github.com/PKU-MARL/Safe-Policy-Optimization)
 * (I personally recommend the first two environments for beginners, especially EPyMARL.)
 
 
