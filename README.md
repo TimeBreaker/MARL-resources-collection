@@ -3,6 +3,8 @@ This is a collection of Multi-Agent Reinforcement Learning (MARL) Resources. The
 
 I will continually update this repository and I welcome suggestions. (missing important papers, missing important resources, invalid links, etc.) This is only a first draft so far and I'll add more resources in the next few months.
 
+**Update (2026):** Added recent open-source environments/benchmarks (JaxMARL, SMACv2, Melting Pot 2.0, Gigastep, POGEMA, ...), a new [MARL Libraries / Frameworks](#marl-libraries--frameworks) section, a new [LLM-based Multi-Agent Systems](#llm-based-multi-agent-systems) section, and a [Recent Surveys (2022–2026)](#recent-surveys-20222026) list.
+
 This repository is not for commercial purposes.
 
 My email: chenhao915@mails.ucas.ac.cn
@@ -14,6 +16,8 @@ My email: chenhao915@mails.ucas.ac.cn
 * [Reviews](https://github.com/TimeBreaker/MARL-resources-collection#reviews)
 * [Books](https://github.com/TimeBreaker/MARL-resources-collection#books)
 * [Open Source Environments](https://github.com/TimeBreaker/MARL-resources-collection#open-source-environments)
+* [MARL Libraries / Frameworks](https://github.com/TimeBreaker/MARL-resources-collection#marl-libraries--frameworks)
+* [LLM-based Multi-Agent Systems](https://github.com/TimeBreaker/MARL-resources-collection#llm-based-multi-agent-systems)
 * [Research Groups](https://github.com/TimeBreaker/MARL-resources-collection#research-groups)
 * [Companies](https://github.com/TimeBreaker/MARL-resources-collection#companies)
 * [Paper List](https://github.com/TimeBreaker/MARL-resources-collection#paper-list)
@@ -44,6 +48,17 @@ My email: chenhao915@mails.ucas.ac.cn
 * [A Survey of Learning in Multiagent Environments: Dealing with Non-Stationarity](https://arxiv.org/abs/1707.09183v1)
 * [Deep Reinforcement Learning for Multi-Agent Systems: A Review of Challenges, Solutions and Applications](https://arxiv.org/pdf/1812.11794.pdf)
 * [A Survey on Transfer Learning for Multiagent Reinforcement Learning Systems](https://www.researchgate.net/publication/330752409_A_Survey_on_Transfer_Learning_for_Multiagent_Reinforcement_Learning_Systems)
+
+### Recent Surveys (2022–2026)
+* [Multi-agent Reinforcement Learning: A Comprehensive Survey](https://arxiv.org/abs/2312.10256)
+* [A Survey of Progress on Cooperative Multi-Agent Reinforcement Learning in Open Environments](https://arxiv.org/abs/2312.01058)
+* [A Survey of Multi-Agent Deep Reinforcement Learning with Communication](https://arxiv.org/abs/2203.08975)   (AAMAS 2024)
+* [A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives](https://arxiv.org/abs/2503.13415)
+* [A Survey of Safe Reinforcement Learning and Constrained MDPs: Single-Agent and Multi-Agent Safety](https://arxiv.org/abs/2505.17342)
+* [Multi-Agent Reinforcement Learning for Autonomous Driving: A Survey](https://arxiv.org/abs/2408.09675)
+* [Multi-Agent Reinforcement Learning in Intelligent Transportation Systems: A Comprehensive Survey](https://arxiv.org/abs/2508.20315)
+* [A Survey on Large Language Model based Multi-Agent Systems: Recent Advances and New Frontiers in Application](https://arxiv.org/abs/2412.17481)
+* [Multi-Agent Collaboration Mechanisms: A Survey of LLMs](https://arxiv.org/abs/2501.06322)
 
 ### Other Reviews (Before 2019)
 * [If multi-agent learning is the answer, what is the question?](https://ai.stanford.edu/people/shoham/www%20papers/LearningInMAS.pdf)
@@ -79,6 +94,39 @@ My email: chenhao915@mails.ucas.ac.cn
 * [PettingZoo](https://github.com/Farama-Foundation/PettingZoo)  [website](https://www.pettingzoo.ml/)
 * [Safe Policy Optimization (SafePO)](https://github.com/PKU-MARL/Safe-Policy-Optimization)
 * (I personally recommend the first two environments for beginners, especially EPyMARL.)
+
+### Newer Environments / Benchmarks (2022–2026)
+* [SMACv2](https://github.com/oxwhirl/smacv2) — an improved, procedurally-generated version of the StarCraft Multi-Agent Challenge. [Paper](https://arxiv.org/abs/2212.07489)
+* [JaxMARL](https://github.com/flairox/jaxmarl) — a large collection of GPU-accelerated MARL environments (including SMAX, an SMAC re-implementation) and baseline algorithms in JAX; extremely fast. [Paper](https://arxiv.org/abs/2311.10090)
+* [Melting Pot 2.0](https://github.com/google-deepmind/meltingpot) — DeepMind's suite for evaluating generalization to novel social situations (cooperation, competition, deception). [Paper](https://arxiv.org/abs/2211.13746)
+* [Overcooked-AI](https://github.com/HumanCompatibleAI/overcooked_ai) — a benchmark for human-AI coordination; the de-facto standard for zero-shot coordination research. [Paper](https://arxiv.org/abs/1910.05789)
+* [Gigastep](https://github.com/mlech26l/gigastep) — one billion steps per second multi-agent RL; large-scale aerial/ground combat scenarios. [Paper](https://openreview.net/forum?id=UgPAaEugH3)
+* [POGEMA](https://github.com/Cognitive-AI-Systems/pogema) — a fast benchmark platform for cooperative multi-agent pathfinding (MAPF). [Paper](https://arxiv.org/abs/2407.14931)
+* [MOMAland](https://github.com/Farama-Foundation/momaland) — Farama's benchmarks for multi-objective multi-agent RL. [Paper](https://arxiv.org/abs/2407.16312)
+* [MARBLER](https://github.com/GT-STAR-Lab/MARBLER) — standardized evaluation of multi-robot RL algorithms on the Robotarium. [Paper](https://arxiv.org/abs/2307.03891)
+* [MABIM / ReplenishmentEnv](https://github.com/VictorYXL/ReplenishmentEnv) — a versatile MARL benchmark for inventory management. [Paper](https://arxiv.org/abs/2306.07542)
+
+
+## MARL Libraries / Frameworks
+Training libraries and algorithm frameworks (as opposed to task environments).
+* [MARLlib](https://github.com/Replicable-MARL/MARLlib) — a Ray/RLlib-based library unifying many MARL algorithms across a wide range of environments through a standardized interface. [Paper](https://arxiv.org/abs/2210.13708)
+* [BenchMARL](https://github.com/facebookresearch/BenchMARL) — a TorchRL-backed benchmarking library for reproducible, standardized comparison of MARL algorithms, tasks and models. [Paper](https://arxiv.org/abs/2312.01472)
+* [EPyMARL](https://github.com/uoe-agents/epymarl) — Extended PyMARL adding more algorithms (IPPO, MAA2C, etc.) and environments.
+* [pymarlzooplus](https://github.com/AILabDsUnipi/pymarlzooplus) — a further-extended PyMARL/EPyMARL benchmarking suite for complex fully-cooperative tasks. [Paper](https://arxiv.org/abs/2502.04773)
+* [Mava](https://github.com/instadeepai/Mava) — InstaDeep's research-friendly JAX framework for scalable MARL.
+* [JaxMARL](https://github.com/flairox/jaxmarl) — bundles both JAX environments and baseline MARL algorithms.
+* [TorchRL](https://github.com/pytorch/rl) — PyTorch-native RL library with first-class multi-agent support (MAPPO, IPPO, QMIX, MADDPG); the backend of BenchMARL.
+
+
+## LLM-based Multi-Agent Systems
+The intersection of Large Language Models and multi-agent systems has become a very active area. A few widely-used open-source frameworks:
+* [CAMEL](https://github.com/camel-ai/camel) — communicative agents / role-playing for LLM societies. [Paper](https://arxiv.org/abs/2303.17760)
+* [AutoGen](https://github.com/microsoft/autogen) — Microsoft's framework for building multi-agent LLM applications via conversation. [Paper](https://arxiv.org/abs/2308.08155)
+* [MetaGPT](https://github.com/geekan/MetaGPT) — a multi-agent framework encoding SOPs for collaborative software teams. [Paper](https://arxiv.org/abs/2308.00352)
+* [ChatDev](https://github.com/OpenBMB/ChatDev) — communicative agents that collaborate to develop software. [Paper](https://arxiv.org/abs/2307.07924)
+* [AgentVerse](https://github.com/OpenBMB/AgentVerse) — a framework for multi-agent collaboration and emergent behavior. [Paper](https://arxiv.org/abs/2308.10848)
+* [Generative Agents](https://github.com/joonspk-research/generative_agents) — interactive simulacra of human behavior. [Paper](https://arxiv.org/abs/2304.03442)
+* See also the **LLM-based Multi-Agent** section in [Multi-Agent-Reinforcement-Learning-papers](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers#llm-based-multi-agent).
 
 
 ## Research Groups
@@ -117,6 +165,7 @@ University of Maryland|[Furong Huang](http://furong-huang.com/)|[Link](http://fu
 ## Paper Lists
 * https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers
 * https://github.com/TimeBreaker/MARL-papers-with-code
+* https://github.com/TimeBreaker/Adversarial-Reinforcement-Learning-Papers
 * https://github.com/LantaoYu/MARL-Papers
 
 
